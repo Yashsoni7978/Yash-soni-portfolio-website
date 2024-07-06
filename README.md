@@ -95,7 +95,7 @@ If you would like to contribute to this portfolio, please fork the repository, c
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
-For any inquiries or feedback, please contact me at [yashsoni@example.com](mailto:yashsoni7978@gmail.com).
+For any inquiries or feedback, please contact me at [yashsoni7978@gmail.com](mailto:yashsoni7978@gmail.com).
 
 ## Acknowledgments
 - Special thanks to my mentors and peers at Sunstone for their support.
