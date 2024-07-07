@@ -1,8 +1,17 @@
 # Yash Soni's Portfolio
 
+
+
+
 Look at the Live Demo of the Website [Click here](https://yashsoni7978.github.io/Summer-project/)
+
+
+
 ## Overview
-This portfolio is a summer project completed at Sunstone. It showcases my personal and professional data analysis projects as well as the web development including website designs and other related projects. The portfolio features several pages: Home, About, Resume, Projects, and Contact Me. Each project demonstrates different aspects of web development and the data science , such as dynamic content generation, styling, and interactivity etc.
+This portfolio is a summer project completed at Sunstone. 
+It showcases my personal and professional data analysis projects as well as the web development including website designs and other related projects. 
+The portfolio features several pages: Home, About, Resume, Projects, and Contact Me. Each project demonstrates different aspects of web development and the data science , 
+such as dynamic content generation, styling, and interactivity etc.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,6 +19,7 @@ This portfolio is a summer project completed at Sunstone. It showcases my person
 - [Approach](#approach)
 - [Solution Features](#solution-features)
 - [Challenges Faced](#challenges-faced)
+- [Technologies Used](#technologies-Used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -41,6 +51,13 @@ To tackle this problem, the following steps were taken:
 - **Responsive Design**: Ensuring the website looks good on all devices required thorough testing and adjustments.
 - **Feature Integration**: Implementing dynamic and interactive features involved complex coding and debugging.
 
+
+## Technologies Used
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+
 ## Installation
 To run this portfolio locally, follow these steps:
 
@@ -55,6 +72,7 @@ To run this portfolio locally, follow these steps:
     ```
 
 3. Open `index.html` in your browser to view the portfolio.
+   
 
 ## Usage
 - Navigate through the portfolio to view different sections.
