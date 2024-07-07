@@ -1,5 +1,7 @@
 # Yash Soni's Portfolio
 
+To watch the Funcational website 🔗 Mint's Sign up page](https://yashsoni7978.github.io/Summer-project/
+
 ## Overview
 This portfolio is a summer project completed at Sunstone. It showcases my personal and professional data analysis projects as well as the web development including website designs and other related projects. The portfolio features several pages: Home, About, Resume, Projects, and Contact Me. Each project demonstrates different aspects of web development and the data science , such as dynamic content generation, styling, and interactivity etc.
 
